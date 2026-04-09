@@ -65,3 +65,50 @@ This system:
 ---
 
 ## 📂 Project Structure
+Smart-classroom-slot-booking-system/
+│── frontend/ # UI components
+│── backend/ # Server-side logic
+│── database/ # DB schemas / models
+│── routes/ # API routes
+│── controllers/ # Business logic
+│── public/ # Static files
+│── README.md
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Arunkumar-v43551/Smart-classroom-slot-booking-system.git
+cd Smart-classroom-slot-booking-system
+2️⃣ Install Dependencies
+npm install
+
+(or for Python:)
+
+pip install -r requirements.txt
+▶️ Run the Application
+npm start
+
+Open in browser:
+
+http://localhost:3000
+🧠 How It Works
+User logs in
+Checks available classrooms
+Selects time slot
+System checks conflicts
+Booking is confirmed
+🎯 Use Cases
+Colleges & Universities
+Training Institutes
+Smart Campus Systems
+🔒 Future Enhancements
+📱 Mobile app
+🔔 Email/SMS notifications
+📊 Advanced analytics
+🤖 AI-based recommendations
+👤 Author
+
+Arun Kumar V
+📍 Chennai, India
+🔗 https://github.com/Arunkumar-v43551
